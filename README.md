@@ -1,4 +1,4 @@
-Example chef-repo directoy structure https://github.com/stephenlauck/pipeline-example-chef-repo
+Example chef-repo directory structure https://github.com/stephenlauck/pipeline-example-chef-repo
 
 # Common release starting points
 
