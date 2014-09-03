@@ -1,3 +1,5 @@
+Example chef-repo directoy structure https://github.com/stephenlauck/pipeline-example-chef-repo
+
 # Common release starting points
 
 1. No cookbook version pinning and nothing has reached production yet (greenfield)
